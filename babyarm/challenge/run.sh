@@ -1,0 +1,1 @@
+./qemu-arm-static -L . ./arm_vuln
